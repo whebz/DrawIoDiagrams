@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T12:04:04.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qgant-InXhV90WrTa8Wr" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T12:06:49.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eM7CSudCVZ2YibIrDsyq" version="21.0.6" type="github">
   <diagram name="Page-1" id="xilJsDQ7PGkPfJtVI0h3">
     <mxGraphModel dx="2074" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -123,6 +123,18 @@
         </mxCell>
         <mxCell id="3C6wiHth4OqIsGjELvff-44" value="Node Spec&lt;br&gt;4 vcore&lt;br&gt;16gb ram&lt;br&gt;40gb temp storage" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3C6wiHth4OqIsGjELvff-42">
           <mxGeometry x="20" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3C6wiHth4OqIsGjELvff-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3C6wiHth4OqIsGjELvff-45" target="3C6wiHth4OqIsGjELvff-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C6wiHth4OqIsGjELvff-45" value="Client apps" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application" vertex="1" parent="1">
+          <mxGeometry x="70" y="188" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3C6wiHth4OqIsGjELvff-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3C6wiHth4OqIsGjELvff-46" target="3C6wiHth4OqIsGjELvff-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C6wiHth4OqIsGjELvff-46" value="Azure Load&lt;br&gt;balancer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;" vertex="1" parent="1">
+          <mxGeometry x="230" y="188" width="50" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
