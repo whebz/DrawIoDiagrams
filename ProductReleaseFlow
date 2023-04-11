@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T22:54:26.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jXNbQh9xoUCXQjHJlnoF" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T22:55:40.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yStDNLGDYXaBs4aOwdVh" version="21.1.1" type="github">
   <diagram name="Page-1" id="suLDo6Srl6rOd5EDv5g2">
-    <mxGraphModel dx="1306" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ze5oH_q3MYmkUVoEE0zu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ze5oH_q3MYmkUVoEE0zu-2" target="Ze5oH_q3MYmkUVoEE0zu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ze5oH_q3MYmkUVoEE0zu-2" value="Start Feature" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="80" height="30" as="geometry" />
+        <mxCell id="Ze5oH_q3MYmkUVoEE0zu-2" value="Iniza nuova Feature" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ze5oH_q3MYmkUVoEE0zu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ze5oH_q3MYmkUVoEE0zu-3" target="Ze5oH_q3MYmkUVoEE0zu-6">
           <mxGeometry relative="1" as="geometry" />
@@ -134,8 +134,8 @@
         <mxCell id="Ze5oH_q3MYmkUVoEE0zu-49" value="Deployare su ambiente QA&lt;br&gt;l&#39;attuale branch" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="930" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ze5oH_q3MYmkUVoEE0zu-51" value="Fine feature" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1050" width="80" height="30" as="geometry" />
+        <mxCell id="Ze5oH_q3MYmkUVoEE0zu-51" value="Fine nuova feature" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
